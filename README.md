@@ -11,6 +11,12 @@ PPI in AI
 
 https://www.cell.com/patterns/fulltext/S2666-3899(22)00098-8
 
-## Working with mathematicians and epidemiologosts
+## Working with mathematicians and epidemiologists
+
+## Case Studies
+
+## Experiences
+
+
 
 
