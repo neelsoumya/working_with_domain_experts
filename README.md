@@ -21,9 +21,13 @@ https://www.cell.com/patterns/fulltext/S2666-3899(22)00098-8
 
 ## Teaching
 
-Journal club and reading
+* Journal club and reading
 
 https://github.com/neelsoumya/reading_list_journal_club
+
+* Other activities and resources
+
+https://github.com/neelsoumya/outreach_ppi
 
 ## Citation
 
