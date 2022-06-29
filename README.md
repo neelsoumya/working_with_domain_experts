@@ -2,7 +2,7 @@
 
 ## Introduction
 
-How to work with domain experts in the field of AI
+A repository detailing how to work with domain experts in the field of AI.
 
 
 ## Working with clinicians in the field of AI
