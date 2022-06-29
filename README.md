@@ -19,6 +19,11 @@ https://www.cell.com/patterns/fulltext/S2666-3899(22)00098-8
 
 ## Experiences
 
+## Teaching
+
+Journal club and reading
+
+https://github.com/neelsoumya/reading_list_journal_club
 
 ## Citation
 
