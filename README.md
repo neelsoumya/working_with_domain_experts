@@ -7,7 +7,7 @@ A repository detailing how to work with domain experts in the field of AI.
 
 ## Working with clinicians in the field of AI
 
-PPI in AI
+Patient and public involvement in AI
 
 https://www.cell.com/patterns/fulltext/S2666-3899(22)00098-8
 
